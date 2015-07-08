@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">helloworld</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">新增</string>
+    <string name="Name">姓名</string>
+    <string name="Phone">電話</string>
+    <string name="Submit">送出</string>
+    <string name="Cancel">取消</string>
+    <string name="Modify">修改</string>
+    <string name="Delete">刪除</string>
+
+</resources>
